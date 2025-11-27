@@ -95,3 +95,31 @@ OS: Windows 7 / 8 / 10 / 11
 RAM: 4 GB minimum
 
 Disk Space: 200 MB for installation
+🛠️ Project Structure (Recommended)
+Official-PDFAgile
+│
+├── /docs              # Public product documentation
+│   ├── logo/          # Logos & brand assets
+│   ├── guides/        # End-user guides
+│   └── api/           # API docs (future)
+│
+├── /samples           # Example PDFs for tutorials
+│
+├── README.md
+└── LICENSE
+🤝 Contributing
+
+PDF Agile is continuously improving.
+We welcome feedback and suggestions through:
+
+GitHub Issues
+
+Feature Requests
+
+Documentation contributions
+
+📬 Contact
+
+Business Cooperation: support@pdfagile.com
+
+Website: https://www.pdfagile.com
